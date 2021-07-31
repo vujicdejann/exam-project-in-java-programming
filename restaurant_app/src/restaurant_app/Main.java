@@ -3,6 +3,7 @@ package restaurant_app;
 /**
 *
 * @author vujicdejann
+* github - https://github.com/vujicdejann
 */
 
 import java.sql.*;
