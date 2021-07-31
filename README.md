@@ -1,4 +1,4 @@
-EXAMINATION PROJECT FROM JAVA PROGRAMMING
+# EXAMINATION PROJECT FROM JAVA PROGRAMMING <br>
 It is necessary to implement a Java-based application that communicates with the database and it is necessary to have the following functionalities:
 Within the system there are 2 types of users - a restaurant guest and a restaurant worker. When launching the application, each user fills in their username and password and accesses the options within the system.
 The restaurant guest can:
