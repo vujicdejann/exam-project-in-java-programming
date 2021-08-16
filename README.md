@@ -1,9 +1,12 @@
-# EXAMINATION PROJECT FROM JAVA PROGRAMMING <br>
-It is necessary to implement a Java-based application that communicates with the database and it is necessary to have the following functionalities:
-Within the system there are 2 types of users - a restaurant guest and a restaurant worker. When launching the application, each user fills in their username and password and accesses the options within the system. <br>
-The restaurant guest can: <br>
-• See the menu in the restaurant in the form of a list of dishes. Each dish has its own name, how many calories it contains and the price. The user is shown the data for all dishes by showing the user this feature of one dish in one row <br>
-• Order a specific dish by entering the name of the dish you want and the number of servings <br>
-A restaurant worker has the opportunity to: <br>
-• Add a specific dish to the menu. When eating, it is necessary to enter the name of the dish, how many calories it contains and the price. <br>
-• Gets an overview of orders. Within the overview, the username of the restaurant guest, the name of the dish and the number of portions are displayed. The user is shown the data for all orders by being displayed for one order in a single line. <br>
+# ISPITNI PROJEKAT IZ JAVA PROGRAMIRANJA <br>
+
+Potrebno je realizovati Java baziranu aplikaciju koja komunicira sa bazom podataka i potrebno je da ima sledeće funkcionalnosti:
+U okviru sistema postoje 2 vrtse korisnika – gost restorana i radnik u restoranu. Prilikom pokretanja aplikacije svako od korisnika popunjava svoje korisničko ime i šifru i pristupa opcijama u okvir sistema.
+Gost restorana može da:
+•	Vidi jelovnik u resotoranu u vidu spiska jela. Svako jelo ima svoje ime, koliko kalorija sadrži i cenu. Korisniku se prikazuju podaci za sva jela tako što se prikazuje korisniku ove osobine jednog jela u jednom redu
+•	Naruči određeno jelo, tako što unosi ime jela koje želi i broj porcija
+Radnik u restoranu ima mogućnost da:
+•	Doda određeno jelo u jelovnik. Prilikom unosa potrebno je da unese za jelo ime, koliko kalorija sadrži i cenu.
+•	Dobije pregled narudžbina. U okviru pregleda se prikazuje korisničko ime gosta restorana, ime jela i broj porcija. Korisniku se prikazuju podaci za sve narudžbine tako što se prikazuje za jednu narudžbinu u jednom redu
+
+Profesor: Boško Nikolić
