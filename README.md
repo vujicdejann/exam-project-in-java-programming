@@ -11,7 +11,7 @@ Radnik u restoranu ima mogućnost da: <br>
 
 Profesor: Boško Nikolić
 
-# # # # # 
+# # # Kredencijali za prijavljivanje
 
 Kredencijali za radnika:
   username: worker01
