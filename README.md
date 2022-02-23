@@ -10,3 +10,13 @@ Radnik u restoranu ima mogućnost da: <br>
 •	Dobije pregled narudžbina. U okviru pregleda se prikazuje korisničko ime gosta restorana, ime jela i broj porcija. Korisniku se prikazuju podaci za sve narudžbine tako što se prikazuje za jednu narudžbinu u jednom redu
 
 Profesor: Boško Nikolić
+
+# # # # # 
+
+Kredencijali za radnika:
+  username: worker01
+  password: radnik01
+  
+Kredencijali za gosta:
+  username: guest01
+  password: gost01
