@@ -11,12 +11,12 @@ Radnik u restoranu ima mogućnost da: <br>
 
 Profesor: Boško Nikolić
 
-# # # Kredencijali za prijavljivanje
+# Kredencijali za prijavljivanje
 
 Kredencijali za radnika:
-  username: worker01
+<br>  username: worker01 <br>
   password: radnik01
   
 Kredencijali za gosta:
-  username: guest01
+<br>  username: guest01 <br>
   password: gost01
